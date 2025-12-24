@@ -23,6 +23,22 @@
       "moistureRaw": 989,
       "wasteTag": "glass",
       "timestamp": "2025-11-25T14:59:20.708Z"
+    },
+    {
+      "id": "nLDL7vxl5KiB5xzN3qsPb",
+      "binId": "BIN-404",
+      "weightKg": 2.84,
+      "moistureRaw": 726,
+      "wasteTag": "glass",
+      "timestamp": "2025-11-25T17:11:04.774Z"
+    },
+    {
+      "id": "s3hRev3eJBK8dZcHpTgO_",
+      "binId": "BIN-404",
+      "weightKg": 1.79,
+      "moistureRaw": 47,
+      "wasteTag": "organic",
+      "timestamp": "2025-11-25T17:11:08.422Z"
     }
   ]
 }

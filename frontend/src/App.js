@@ -392,7 +392,7 @@ function App() {
       </div>
 
       <footer className="app-footer">
-        <p>Binlytics - Analytics at the Source | Built for Hackathon</p>
+        <p>Binlytics - Analytics at the Source | Developed by Dharshan V</p>
       </footer>
     </div>
   );

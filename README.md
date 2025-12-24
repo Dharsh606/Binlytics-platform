@@ -1,6 +1,8 @@
 # 🗑️ Binlytics - Analytics at the Source
 
-A software-only web application for simulating waste segregation, tracking waste readings, and calculating segregation scores using rule-based scoring.
+A comprehensive web application for simulating waste segregation, tracking waste readings, and calculating segregation scores using rule-based scoring. Built with modern web technologies to provide real-time analytics and insights for waste management.
+
+**Author:** Dharshan V
 
 ## 📋 Table of Contents
 
@@ -16,14 +18,16 @@ A software-only web application for simulating waste segregation, tracking waste
 
 ## 🎯 Overview
 
-Binlytics is a hackathon project that helps track and analyze waste segregation data. It simulates waste readings from bins, stores them in a JSON file (using lowdb), and provides analytics through a React frontend.
+Binlytics is a comprehensive waste management analytics platform that helps track and analyze waste segregation data. It simulates waste readings from bins, stores them in a JSON file (using lowdb), and provides analytics through a React frontend.
 
 **Key Features:**
-- Enter waste readings manually (optional auto-fill demo button)
-- View recent waste readings in a table
-- See daily waste trends in bar charts
-- Calculate segregation scores for bins
-- View top performers and offenders
+- 📝 Manual waste reading entry with validation
+- 📊 Real-time analytics dashboard
+- 📈 Daily waste trends visualization with interactive charts
+- 🎯 Intelligent segregation scoring system
+- 🏆 Top performers and offenders tracking
+- 📋 Comprehensive data table with sorting and filtering
+- 🔄 Automatic data refresh and updates
 
 ## 🛠️ Tech Stack
 
@@ -373,6 +377,12 @@ All API endpoints are prefixed with `/api`. Here's what each one does:
    - Instructions to run `npm install` in both folders
    - This README file
 
+## 👨‍💻 Author
+
+**Dharshan V**
+
+This project was developed as a comprehensive waste management analytics solution, providing real-time tracking and insights for waste segregation data.
+
 ## 🎓 Learning Resources
 
 - **Express**: [expressjs.com](https://expressjs.com/)
@@ -382,10 +392,21 @@ All API endpoints are prefixed with `/api`. Here's what each one does:
 
 ## 📝 Notes
 
-- **No Database Required**: All data is stored in `backend/data/db.json`
+- **No Database Required**: All data is stored in `backend/data/db.json` using lowdb
 - **Beginner Friendly**: Code has comments explaining what each part does
-- **Local Only**: Runs entirely on your computer (localhost)
-- **No Authentication**: This is a demo/hackathon project
+- **Local Development**: Runs entirely on your computer (localhost)
+- **No Authentication**: This is a demo project for waste management analytics
+- **Scalable Architecture**: Easy to extend with additional features and integrations
+
+## 🚀 Future Enhancements
+
+Potential improvements for future versions:
+- User authentication and role-based access
+- Real-time data synchronization
+- Export functionality (CSV, PDF reports)
+- Advanced analytics and predictions
+- Mobile app integration
+- Multi-tenant support
 
 ## 🎉 You're All Set!
 
@@ -395,5 +416,7 @@ If you encounter any issues, check the Troubleshooting section or review the cod
 
 ---
 
-**Built with ❤️ for Hackathon**
+**Built with Passion by Dharshan V**
+
+*Binlytics - Making waste management smarter, one bin at a time.*
 

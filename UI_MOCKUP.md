@@ -64,7 +64,7 @@
 │  └──────────────────────────┴──────────────────────────┘   │
 │                                                               │
 │              Binlytics - Analytics at the Source             │
-│                    Built for Hackathon                       │
+│                    Developed by Dharshan V                   │
 └─────────────────────────────────────────────────────────────┘
 ```
 

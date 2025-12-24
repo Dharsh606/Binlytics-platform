@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "author": "Dharshan V",
+  "license": "MIT",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",

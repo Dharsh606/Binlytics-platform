@@ -9,7 +9,7 @@
   },
   "keywords": ["waste-management", "analytics", "binlytics"],
   "author": "Dharshan V",
-  "license": "ISC",
+  "license": "MIT",
   "type": "commonjs",
   "dependencies": {
     "cors": "^2.8.5",

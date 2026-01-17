@@ -2,6 +2,10 @@
 
 A comprehensive web application for simulating waste segregation, tracking waste readings, and calculating segregation scores using rule-based scoring. Built with modern web technologies to provide real-time analytics and insights for waste management.
 
+## 🌐 Live Application
+
+**👉 [View Live Demo](https://binlytics-platform.vercel.app/)** - Deployed on Vercel
+
 **Author:** Dharshan V  
 **License:** MIT License (see [LICENSE](LICENSE) file)
 

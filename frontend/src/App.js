@@ -12,8 +12,8 @@ import {
 } from 'recharts';
 import './App.css';
 
-// Base URL for API calls - change this if your backend runs on a different port
-const API_BASE_URL = 'http://localhost:4000';
+// Base URL for API calls - uses environment variable in production, falls back to localhost for development
+const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:4000';
 const WASTE_TAGS = ['organic', 'plastic', 'paper', 'metal', 'glass'];
 
 function App() {
